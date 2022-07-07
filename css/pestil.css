@@ -1,0 +1,188 @@
+/* navbar */
+.container-fluid {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.nav-title-picture {
+  background-color: #D1D1D1;
+}
+
+/* navbar */
+/* Style the navigation menu */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  position: relative;
+}
+
+/* Hide the links inside the navigation menu (except for logo/home) */
+.topnav #myLinks {
+  display: none;
+}
+
+/* Style navigation menu links */
+.topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+.blog {
+  color: black;
+}
+
+/* Style the hamburger menu */
+.topnav a.icon {
+  background: black;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+/* Add a grey background color on mouse-over */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the active link (or home/logo) */
+.active {
+  background-color: #D1D1D1;
+  color: black;
+}
+
+
+
+.title-part {
+  background-color:#2B2B2B;
+}
+
+
+
+.title-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 830px;
+-webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+
+}
+
+.title-text {
+  color: white;
+  margin-left: 50px;
+  padding-top: 6rem;
+  font-size: 70px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.subtitle-text {
+  color: white;
+  font-family: 'Lora', serif;
+  margin-left: 50px;
+  padding-top: 2rem;
+  font-size: 30px;
+}
+
+.quote-text {
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  padding: 50px;
+  font-size: 40px;
+}
+
+.middle-container {
+    background-color:#EFEFEF;
+}
+
+.articles-container {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.first-line {
+  text-align: center;
+  padding: 60px;
+}
+
+.article-title {
+  text-align: center;
+}
+
+.article-dates {
+  text-align: center;
+}
+
+/* images */
+.holocaust-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+}
+
+.jerusalem-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.israel-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text-article1 {
+  font-size: 20px;
+  text-align: left;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+
+.text-article2 {
+  font-size: 20px;
+  text-align: left;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+
+.text-article3 {
+  font-size: 20px;
+  text-align: left;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+
+.button-down {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+  outline: none;
+  text-decoration: none;
+  color: gray;
+}
+
+.drepturi {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+
+}
